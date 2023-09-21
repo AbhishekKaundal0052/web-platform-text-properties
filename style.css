@@ -9,5 +9,5 @@
 }
 #js{
   color: green;
-  text-transform:uppercase;
+  text-transform:capitalize;
 }
